@@ -3,9 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hi, I'm Chi-I Huang, or just call me Jason or $$\pi$$. I want to write down something about the MOOC courses I took, about my ongoing projects, and about something worth to share. That's why I create this blog.
+![Alt text](/assets/zabon.jpg){: .author-image }
