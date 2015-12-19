@@ -10,3 +10,4 @@ github_username:  jasson15
 
 # Build settings
 markdown: kramdown
+permalink: pretty
